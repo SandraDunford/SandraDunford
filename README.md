@@ -1,4 +1,6 @@
-![DataMatron Banner.png](images/banner.png)
+<p align="center">
+  <img src="images/DataMatron Banner.png" alt="DataMatron Banner">
+</p>
 
 # TheDataMatron
 
