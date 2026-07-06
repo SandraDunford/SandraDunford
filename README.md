@@ -1,3 +1,5 @@
+![DataMatron Banner](images/banner.png)
+
 # TheDataMatron
 
 Senior NHS healthcare professional applying analytics engineering to healthcare data challenges.
