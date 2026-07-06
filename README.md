@@ -1,4 +1,4 @@
-![DataMatron Banner](images/banner.png)
+![DataMatron Banner.png](images/banner.png)
 
 # TheDataMatron
 
